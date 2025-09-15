@@ -44,7 +44,7 @@ This project followed a professional **nine-step dashboard development cycle**:
 2. **Data Collection:** Combined inpatient and outpatient data from source files.  
 3. **Data Transformation:** Cleaned, aligned, and appended tables into `All_Data`.  
 4. **Data Modeling:** Built relationships with a specialty mapping table.  
-5. **Visualization Blueprint:** Designed summary page, detailed matrix view, and tooltip pages.  
+5. **Visualisation Blueprint:** Designed summary page, detailed matrix view, and tooltip pages.  
 6. **Dashboard Layout & Design:** Created DAX measures (`Latest Month Wait List`, `PY Latest Month Wait List`, `Avg/Med Wait List`, `Dynamic Title`) and designed toggle buttons.  
 7. **Interactivity:** Added slicers, navigation, tooltips, and conditional messages.  
 8. **Testing & Sharing:** Verified calculations and design consistency.  

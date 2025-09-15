@@ -54,9 +54,15 @@ This project followed a professional **nine-step dashboard development cycle**:
 
 ## 📷 Dashboard Screenshots  
 
-| Summary View | Drillthrough Tooltip | Detailed Page |
-|-------------|--------------------|--------------|
-| ![Summary](screenshots/summary.png) | ![Tooltip](screenshots/tooltip.png) | ![Detail](screenshots/detail.png) |
+### Summary View
+![Summary View](screenshots/summary.png)
+
+### Drillthrough Tooltip
+![Drillthrough Tooltip](screenshots/tooltip.png)
+
+### Detailed Page
+![Detailed Page](screenshots/detail.png)
+
 
 > **Interactive Features:** Hover over trend lines for specialty breakdowns, filter by case type, time band, or specialty. Toggle between Average & Median calculations dynamically.
 
